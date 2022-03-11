@@ -2,6 +2,7 @@
 - 👀 I’m interested in how computers work
 - 🌱 I’m currently learning Elixir and java networking
 - 📫 You can reach me at olaussonemil@gmail.com
+- 👜 To see what i have worked on check my repositories
 
 <!---
 EmilKoco/EmilKoco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
