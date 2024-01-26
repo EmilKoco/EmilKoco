@@ -1,8 +1,11 @@
 - 👋 Hi, I’m Emil Olausson
-- 👀 I’m interested in how computers work
-- 🌱 I’m currently learning Elixir and java networking
+I have studied engineering within information and communication technology for 3 years
+and I'm currently pursuing my master's in medical engineering.
+I’m interested in a lot of different ways that computers work and how to develop
+software solutions for different problems.
+
+
 - 📫 You can reach me at olaussonemil@gmail.com
-- 👜 To see what i have worked on check my repositories
 
 <!---
 EmilKoco/EmilKoco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
